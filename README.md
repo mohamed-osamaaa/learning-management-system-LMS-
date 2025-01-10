@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/e3793a61-0ade-4343-87ec-412803e545d2
 
 
 
-```markdown
+
 # Learning Management System (LMS) - MERN Stack
 
 A modern **Learning Management System (LMS)** built using **Vite + React**, **Tailwind CSS**, **Shadcn UI**, **Express**, and **MongoDB**. This system features user authentication, instructor management, and PayPal integration for secure payments. It offers a responsive design, scalable backend, RESTful API, and is easily customizable to fit various needs.
