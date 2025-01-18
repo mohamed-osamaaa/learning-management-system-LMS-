@@ -81,7 +81,7 @@ Before getting started, ensure you have the following installed on your machine:
 6. Start the backend:
    ```bash
    cd backend
-   npm start
+   npm run dev
    ```
 
 7. Start the frontend:
